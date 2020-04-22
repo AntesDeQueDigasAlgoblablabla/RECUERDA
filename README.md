@@ -1,2 +1,3 @@
 # RECUERDA
-Ver en fijados
+Ver en fijado
+A tu  izquierda tienes los grupos
